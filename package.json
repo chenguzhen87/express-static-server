@@ -1,0 +1,13 @@
+{
+  "name": "express-static-server",
+  "version": "1.0.0",
+  "description": "基于express静态服务器",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
